@@ -1,5 +1,7 @@
 [theme] 
-font = "Yuyu:https://fonts.googleapis.com/css2?family=Yuyu&display=swap"
-headingFont = "Yuyu:https://fonts.googleapis.com/css2?family=Yuyu&display=swap"
-baseFontSize = 16
-baseFontWeight = 400
+base = "light"
+primaryColor = "#4F46E5"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F8F9FA"
+textColor = "#1F2937"
+font = "serif"
