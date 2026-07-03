@@ -13,11 +13,7 @@ st.markdown(
     """
     <link href="https://fonts.googleapis.com/css2?family=Yeseva+One&display=swap" rel="stylesheet">
     <style>
-    /* Usar una fuente válida y forzar su aplicación */
-    :root, body, [data-testid="stAppViewContainer"], [data-testid="stAppViewContainer"] * {
-        font-family: 'Yeseva One', sans-serif !important;
-    }
-
+    
         /* Fondo de la app */
         [data-testid="stAppViewContainer"] {
             background-image: url("https://wallpapers.com/images/hd/christmas-teams-background-qj2j0kqebj8bpb0q.jpg");
