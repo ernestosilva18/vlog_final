@@ -1,2 +1,5 @@
 [theme] 
 font = "Yuyu:https://fonts.googleapis.com/css2?family=Yuyu&display=swap"
+headingFont = "Yuyu:https://fonts.googleapis.com/css2?family=Yuyu&display=swap"
+baseFontSize = 16
+baseFontWeight = 400
