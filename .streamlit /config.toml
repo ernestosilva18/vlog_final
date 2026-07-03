@@ -1,5 +1,3 @@
 [theme] 
-font = "'Della Respira':https://fonts.googleapis.com/css2?family=Della+Respira&display=swap"
-headingFont = "'Della Respira':https://fonts.googleapis.com/css2?family=Della+Respira&display=swap"
-baseFontSize = 16
-baseFontWeight = 400
+font = "Yuyu:https://fonts.googleapis.com/css2?family=Yuyu&display=swap"
+headingFont = "Yuyu:https://fonts.googleapis.com/css2?family=Yuyu&display=swap"
