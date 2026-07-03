@@ -1,7 +1,8 @@
 [theme] 
-base = "light"
-primaryColor = "#4F46E5"
-backgroundColor = "#FFFFFF"
-secondaryBackgroundColor = "#F8F9FA"
-textColor = "#1F2937"
-font = "serif"
+primaryColor="#6B4F4F"
+backgroundColor="#FAF8F4"
+secondaryBackgroundColor="#E8E3D9"
+textColor="#2E2E2E"
+font = "https://fonts.googleapis.com/css2
+family=Playwrite+NZ:wght@100..400&family=Roboto:ital,wght@0,100..900;1,100..900&
+family=Yuyu&display=swap"
