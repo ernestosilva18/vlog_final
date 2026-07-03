@@ -1,3 +1,5 @@
 [theme] 
 font = "'Della Respira':https://fonts.googleapis.com/css2?family=Della+Respira&display=swap"
 headingFont = "'Della Respira':https://fonts.googleapis.com/css2?family=Della+Respira&display=swap"
+baseFontSize = 16
+baseFontWeight = 400
